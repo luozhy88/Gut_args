@@ -1,8 +1,8 @@
 # Gut_args
 比如0.1 prevalence  过滤在所有样本中低于10%的菌群。  
 
-prevalence：
- 16S：
+prevalence：  
+ 16S：  
  人prevalence：0.1  
  小鼠prevalence：0.2  
  宏数据：
