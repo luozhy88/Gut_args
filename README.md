@@ -22,4 +22,5 @@
 https://data.gtdb.ecogenomic.org/releases/release214/214.1/auxillary_files/ncbi_vs_gtdb_r214_bacteria.xlsx
 
 # 酶对应菌的关系
-http://eggnog5.embl.de/#/app/home
+http://eggnog5.embl.de/#/app/home  
+Metacyc
