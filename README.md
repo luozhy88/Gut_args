@@ -17,3 +17,9 @@
 ### 如果是rawconut数据：  
  core(pseq.sub, detection = 1, prevalence = .1)  
  我对detection理解是，tax表中的每个数值都必须大于1才会保留  
+
+# ncbi_vs_gtdb_r214  菌种分类对应关系
+https://data.gtdb.ecogenomic.org/releases/release214/214.1/auxillary_files/ncbi_vs_gtdb_r214_bacteria.xlsx
+
+# 酶对应菌的关系
+http://eggnog5.embl.de/#/app/home
