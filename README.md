@@ -24,3 +24,8 @@ https://data.gtdb.ecogenomic.org/releases/release214/214.1/auxillary_files/ncbi_
 # 酶对应菌的关系
 http://eggnog5.embl.de/#/app/home  
 Metacyc
+
+
+# metaphlan to GTDB
+http://cmprod1.cibio.unitn.it/biobakery4/metaphlan_databases/mpa_vOct22_CHOCOPhlAnSGB_202212_species.txt.bz2  
+https://github.com/biobakery/MetaPhlAn/blob/master/metaphlan/utils/mpa_vOct22_CHOCOPhlAnSGB_202212_SGB2GTDB.tsv  
