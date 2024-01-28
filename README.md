@@ -19,11 +19,11 @@
  我对detection理解是，tax表中的每个数值都必须大于1才会保留  
 
 ### kraken2输出
-kraken2输出是TSS的结果
-1 deseq得方法不适合
-2 lefse选择CPM也可以分析，意思是Kraken2输出一个数值为0.01，其实在计算中选用CPM就是进行了转化成10000
-3 linda就是个线性回归，counts,他就用negative binomial regression；percent, 他就直接用gaussian regression,也就是我们通常做的那样。
-4 非参数可以直接做
+kraken2输出是TSS的结果  
+1 deseq得方法不适合  
+2 lefse选择CPM也可以分析，意思是Kraken2输出一个数值为0.01，其实在计算中选用CPM就是进行了转化成10000  
+3 linda就是个线性回归，counts,他就用negative binomial regression；percent, 他就直接用gaussian regression,也就是我们通常做的那样。  
+4 非参数可以直接做  
 
 
 # ncbi_vs_gtdb_r214  菌种分类对应关系
