@@ -37,3 +37,10 @@ Metacyc
 # metaphlan to GTDB
 http://cmprod1.cibio.unitn.it/biobakery4/metaphlan_databases/mpa_vOct22_CHOCOPhlAnSGB_202212_species.txt.bz2  
 https://github.com/biobakery/MetaPhlAn/blob/master/metaphlan/utils/mpa_vOct22_CHOCOPhlAnSGB_202212_SGB2GTDB.tsv  
+
+
+# 多样性
+Shannon指数更加敏感于物种的均匀度，即各物种在群落中的相对比例。  
+Simpson指数更加关注物种的丰富度和优势物种的存在，它给予丰度较高的物种更大的权重。  
+Chao1指数是一种估计群落中未被观察到的物种总数的方法，主要用于评估物种的丰富度。  
+
